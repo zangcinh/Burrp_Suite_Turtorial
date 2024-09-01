@@ -36,3 +36,7 @@ Next, we have to tell and allow the browser know that it has to communicate with
 
 ![image](https://github.com/user-attachments/assets/390c32ed-760d-4fe2-a30e-2f5f0d291bef)
 
+Now we can see the the requests appear in burpsuite 
+
+![image](https://github.com/user-attachments/assets/980ef53c-ddcb-4948-a747-3e7d6dc94057)
+
